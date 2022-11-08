@@ -1,0 +1,21 @@
+1 - Caso seja necessário modificar os diretórios (pastas) onde as planilhas se encontram. Alterar os 
+    caminhos na planilha variaveis.csv
+
+2 - Não mude o layout das planilhas. Mantenha elas no mesmo formato, podendo alterar somente
+    os dados.
+
+3 - Se for adicionar uma nova planilha (nova máquina de injeção ou linha de montagem), mantenha
+    o mesmo layout das demais. Sugestão: utilize uma planilha existente como base, duplique-a e
+    renomeie o novo arquivo. Lembre de observar o log de erros quando estiver executando o programa,
+    caso ocorra algum erro de importação, você será informado.
+
+4 - Não adicione nenhum arquivo que não deva ser importado nas pastas das planilhas. O programa
+    tentará importar esse arquivo, podendo gerar inconsistências na informação. Caso seja extremamente
+    necessário adicionar um arquivo em alguma das pastas, inserir o nome deste arquivo na planilha 
+    variaveis.csv
+
+5 - Os arquivos da injeção fábrica 2 devem manter o mesmo padrão de nome: aaammdd.xlsx 
+    se for adicionado algum arquivo com o padrão diferente, a leitura será comprometida.
+
+Login github: logistica@seoyonintech.com.br
+Senha:	      Seoyon@2022
